@@ -1,0 +1,20 @@
+body{
+    margin: 200px 400px 200px 400px;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.r-8a-vFfaTYX6vRg0wpY-QHaGp&pid=Api&P=0&h=180);
+}
+h2{
+    background-color:rgb(0, 179, 255);
+    display: flex;
+    justify-content: space-around;
+    
+}
+h3{
+    color: white;
+    display:flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+     justify-content:space-around;
+     background-color:black ;
+     background: rgb(0, 0, 0,0.66);}
